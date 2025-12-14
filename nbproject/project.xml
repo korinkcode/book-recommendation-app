@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>BookRecommendation</name>
+=======
+            <name>bookrecommendationAPP</name>
+>>>>>>> 375541ae1275c9d04537f5d90d564880ca9b0671
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
